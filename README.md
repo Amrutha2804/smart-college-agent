@@ -369,7 +369,7 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fi
 
 **[⬆ Back to Top](#-kiit-smart-college-companion)**
 
-Made with for KIIT students | Maintained by Amrutha Jampala
+Made for KIIT students | Maintained by Amrutha Jampala
 
 ![Footer Badge](https://img.shields.io/badge/Built%20at-KIIT%20Bhubaneswar-FF6B6B?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge)
