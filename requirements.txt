@@ -1,6 +1,10 @@
-langchain 
-chromadb 
-fastapi 
-uvicorn 
+fastapi
+uvicorn
 streamlit
-render
+chromadb
+openai
+pydantic
+python-dotenv
+PyPDF2
+httpx
+pytest
