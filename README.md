@@ -105,7 +105,7 @@ Domain-specific RAG chatbot answering CGPA queries, placement FAQs, timetables &
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Python 3.9+
+- Python 3.10+
 - pip or conda
 - OpenAI API key (or use free LLM alternatives)
 
