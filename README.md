@@ -18,7 +18,6 @@ Domain-specific RAG chatbot answering CGPA queries, placement FAQs, timetables &
 ---
 
 ## ✨ Features
-
 <table>
   <tr>
     <td>
@@ -51,7 +50,6 @@ Domain-specific RAG chatbot answering CGPA queries, placement FAQs, timetables &
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🏗️ Architecture
