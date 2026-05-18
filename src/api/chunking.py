@@ -8,7 +8,6 @@ def chunk_pdf(pdf_path, chunk_size=500):
         all_text += page.extract_text() or ""
     # Naive chunking by N characters
     return [all_text[i:i+chunk_size] for i in range(0, len(all_text), chunk_size)]
-
 def chunk_kiit_docs(doc_dir):
     docs = []
     for fname in os.listdir(doc_dir):
