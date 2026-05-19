@@ -357,7 +357,7 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fi
 
 ## 📧 Contact
 
-- **Email:** smart-college-companion@kiit.ac.in
+- **Email:** smart_college_companion@gmail.com
 - **Issues:** [GitHub Issues](https://github.com/Amrutha2804/smart-college-agent/issues)
 
 ---
