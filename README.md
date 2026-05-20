@@ -363,7 +363,6 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fi
 ---
 
 <div align="center">
-
 **[⬆ Back to Top](#-kiit-smart-college-companion)**
 Made for KIIT students | Maintained by Amrutha Jampala
 
