@@ -10,3 +10,5 @@ httpx
 pytest
 streamlit-audio-recorder
 gtts
+SpeechRecognition
+requests
