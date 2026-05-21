@@ -8,3 +8,5 @@ python-dotenv
 PyPDF2
 httpx
 pytest
+streamlit-audio-recorder
+gtts
