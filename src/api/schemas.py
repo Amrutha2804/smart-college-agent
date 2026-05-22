@@ -23,3 +23,9 @@ def query(req: QueryRequest):
         )
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+class FeedbackRequest(BaseModel):
+    question: str
+    answer: str
+    feedback: str
+    user_id: Optional[str] = None
