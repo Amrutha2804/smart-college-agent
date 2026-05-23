@@ -28,3 +28,11 @@ def query(req: QueryRequest):
         )
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+import json
+
+@router.post("/feedback")
+def feedback(req: FeedbackRequest):
+    with open("./data/feedback_log.jsonl", "a") as f:
+        f.write(json.dumps(req.dict()) + "\n")
+    return {"status": "ok"}
