@@ -36,3 +36,10 @@ def feedback(req: FeedbackRequest):
     with open("./data/feedback_log.jsonl", "a") as f:
         f.write(json.dumps(req.dict()) + "\n")
     return {"status": "ok"}
+import json
+
+@router.get("/faq")
+def faq():
+    with open("./data/faqs.json", "r") as f:
+        data = json.load(f)
+    return {"categories": list(data.keys()), "faqs": data}
