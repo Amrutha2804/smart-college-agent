@@ -4,7 +4,6 @@ from gtts import gTTS
 import io
 import requests
 import speech_recognition as sr
-
 st.title("KIIT Smart College Companion 🎓")
 
 st.write("Record your question (Hindi/Odia/English):")
