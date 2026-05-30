@@ -3,7 +3,6 @@ from ..rag.embeddings import create_vector_db
 from ..rag.chunking import chunk_kiit_docs
 from ..rag.retrieval import answer_question
 from .schemas import QueryRequest, QueryResponse
-
 import time
 
 router = APIRouter()
