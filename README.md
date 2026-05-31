@@ -113,14 +113,11 @@ Domain-specific RAG chatbot answering CGPA queries, placement FAQs, timetables &
 # Clone the repository
 git clone https://github.com/Amrutha2804/smart-college-agent.git
 cd smart-college-agent
-
 # Create virtual environment
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-
 # Install dependencies
 pip install -r requirements.txt
-
 # Set environment variables
 export OPENAI_API_KEY="your-api-key"
 export KIIT_DATA_PATH="./data/kiit_docs"
