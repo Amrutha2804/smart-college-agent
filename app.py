@@ -6,6 +6,7 @@ import requests
 import speech_recognition as sr
 st.title("KIIT Smart College Companion 🎓")
 
+
 st.write("Record your question (Hindi/Odia/English):")
 audio_bytes = audio_recorder(pause_threshold=2.0)
 
