@@ -8,7 +8,9 @@ def create_vector_db(kiit_chunks, persist_dir="./data/processed"):
         api_key=os.environ.get("OPENAI_API_KEY"),
         model_name="text-embedding-ada-002"
     )
+  
     # Add documents if not exists
+    
     for idx, doc in enumerate(kiit_chunks):
         collection.add(
             documents=[doc["text"]],
