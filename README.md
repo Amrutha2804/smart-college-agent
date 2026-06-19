@@ -100,7 +100,9 @@ Domain-specific RAG chatbot answering CGPA queries, placement FAQs, timetables &
 
 ---
 
+
 ## 🚀 Quick Start
+
 
 ### Prerequisites
 - Python 3.10+
