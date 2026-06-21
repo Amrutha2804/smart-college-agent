@@ -16,4 +16,4 @@ def chunk_kiit_docs(doc_dir):
             chunks = chunk_pdf(os.path.join(doc_dir, fname))
             for ch in chunks:
                 docs.append({"text": ch, "source": fname})
-    return docs
+                return docs
