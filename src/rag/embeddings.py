@@ -1,6 +1,5 @@
 import chromadb
 from chromadb.utils import embedding_functions
-
 def create_vector_db(kiit_chunks, persist_dir="./data/processed"):
     client = chromadb.PersistentClient(path=persist_dir)
     collection = client.get_or_create_collection("kiit_docs")
