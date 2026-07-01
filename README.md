@@ -367,4 +367,4 @@ Made for KIIT students | Maintained by Amrutha Jampala
 ![Footer Badge](https://img.shields.io/badge/Built%20at-KIIT%20Bhubaneswar-FF6B6B?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge)
 </div>
-updated the readme file
+updated the readme file according to the current norms
